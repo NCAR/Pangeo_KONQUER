@@ -1,0 +1,15 @@
+name: konquer
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - cdsapi
+  - geopandas
+  - hvplot
+  - regionmask
+  - pandas
+  - numpy
+  - xarray
+  - matplotlib
+  - cartopy
+  - tqdm
