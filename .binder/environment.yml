@@ -17,3 +17,4 @@ dependencies:
   - bottleneck
   - bokeh<2
   - geoviews
+  - ipywidgets
