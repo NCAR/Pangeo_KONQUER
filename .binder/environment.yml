@@ -16,3 +16,4 @@ dependencies:
   - netcdf4
   - bottleneck
   - bokeh<2
+  - geoviews
