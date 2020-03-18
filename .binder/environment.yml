@@ -13,3 +13,6 @@ dependencies:
   - matplotlib
   - cartopy
   - tqdm
+  - netcdf4
+  - bottleneck
+  - bokeh<2
